@@ -1,0 +1,351 @@
+.Body
+{
+position: absolute;
+width: 1339px;
+height: 850px;
+left: 59px;
+top: 120px;
+}
+
+.TicketBox
+{
+position: absolute;
+width: 340px;
+height: 850px;
+left: 59px;
+top: 120px;
+background: #FFFFFF;
+/* Shadow Card Big */
+box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+border-radius: 12px;
+}
+
+.GMT
+{
+position: absolute;
+width: 300px;
+height: 42px;
+left: -50px;
+top: -120px;
+}
+
+.GMTText
+{
+position: absolute;
+width: 159px;
+height: 15px;
+left: 79px;
+top: 156px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 56px;
+/* or 280% */
+display: flex;
+align-items: center;
+color: #2D2D2D;
+}
+
+.BUY
+{
+position: absolute;
+width: 94px;
+height: 42px;
+left: 285px;
+top: 143px; 
+background: #550DED;
+border: 1px solid #550DED;
+box-sizing: border-box;
+border-radius: 4px;  
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+.TBDivider
+{
+position: absolute;
+width: 1px;
+height: 340px;
+left: 170px;
+top: -90px;
+background: #E9E9E9;
+transform: rotate(90deg);
+}
+
+.Tickets
+{
+position: absolute;
+width: 149.41px;
+height: 715px;
+left: -50px;
+top: -130px;
+opacity: 0.2;
+}
+
+.Ticket1
+{
+position: absolute;
+width: 149.41px;
+height: 228px;
+left: 155px;
+top: 232px;
+background: #EAEAFF;
+border-radius: 3.88085px;
+}
+
+.Ticket2
+{
+position: absolute;
+width: 149.41px;
+height: 228px;
+left: 155px;
+top: 475px;
+background: #EAEAFF;
+border-radius: 3.88085px;
+}
+
+.Ticket3
+{
+position: absolute;
+width: 149.41px;
+height: 228px;
+left: 155px;
+top: 719px;
+background: #EAEAFF;
+border-radius: 3.88085px;
+}
+
+
+/* ----------------------------------------------------------*/
+.DragBox
+{
+position: absolute;
+width: 1339px;
+height: 850px;
+left: 670px;
+top: 120px;
+background: #FFFFFF;
+/* Shadow Card Big */
+box-shadow: 0px 6px 15px -4px rgba(0, 0, 0, 0.2);
+border-radius: 12px;
+}
+
+.Title
+{
+position: absolute;
+width: 367px;
+height: 56px;
+left: -180px;
+top: -150px;
+color: #2D2D2D;
+font-family: Lato;
+font-style: normal;
+align-items: center;
+text-align: center;
+}
+
+.T1 
+{
+position: absolute;
+width: 271px;
+height: 25px;
+left: 783px;
+top: 162px;
+font-weight: bold;
+font-size: 32px;
+line-height: 30px;
+/* or 94% */
+display: flex;
+text-transform: capitalize;
+}
+
+.T2
+{
+position: absolute;
+width: 367px;
+height: 14px;
+left: 735px;
+top: 204px;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+}
+
+.DisplayBox
+{
+position: absolute;
+width: 781px;
+height: 448px;
+left: 280px;
+top: 100px;
+border: 2px dashed #EAEAFF;
+box-sizing: border-box;
+border-radius: 12px;
+}
+
+.DemoCard
+{
+position: absolute;
+width: 178.62px;
+height: 272.57px;
+left: 300px;
+top: 60px;
+background: #EAEAFF;
+border-radius: 4.63948px;
+}
+
+.DragBoxDesc
+{
+position: absolute;
+width: 323px;
+height: 44px;
+left: 230px;
+top: 350px;
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+text-align: center;
+color: #727272;
+}
+
+.DragBoxDivider
+{
+position: absolute;
+width: 2px;
+height: 959px;
+left: 650px;
+top: 171px;
+background: #E9E9E9;
+transform: rotate(90deg);
+}
+
+.TicketImg
+{
+position: absolute;
+width: 169px;
+height: 108.19px;
+left: 110px;
+top: 600px;
+transform: rotate(270deg);
+}
+
+.TicketsFound
+{
+position: absolute;
+width: 382px;
+height: 105px;
+left: -400px;
+top: -150px;
+}
+
+.DrawTicks
+{
+position: absolute;
+width: 201px;
+height: 45px;
+left: 662px;
+top: 819px;
+}
+
+.NumTicksFound
+{
+position: absolute;
+width: 135px;
+height: 13px;
+left: 662px;
+top: 851px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+color: #2D2D2D;
+}
+
+.PrizeExplanation
+{
+position: absolute;
+width: 382px;
+height: 35px;
+left: 662px;
+top: 889px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+
+.DrawingTickets
+{
+position: absolute;
+width: 230px;
+height: 100px;
+left: -80px;
+top: -150px;
+}
+
+.TicketLevel
+{
+position: absolute;
+width: 230px;
+height: 42px;
+left: 1142px;
+top: 826px;
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+display: flex;
+align-items: center;
+text-transform: capitalize;
+color: #2D2D2D;
+}
+
+.DrawTicketButton
+{
+position: absolute;
+width: 230px;
+height: 46px;
+left: 1142px;
+top: 880px;
+position: absolute;
+width: 230px;
+height: 46px;
+left: 1142px;
+top: 880px;
+background: #550DED;
+border: 1px solid #550DED;
+box-sizing: border-box;
+border-radius: 2px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}

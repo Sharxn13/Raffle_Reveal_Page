@@ -1,0 +1,309 @@
+.Footer
+{
+position: absolute;
+width: 1950px;
+height: 206px;
+left: 120px;
+top: 1039px;
+background-color: #2c0347;
+color: #FFFFFF;
+}
+
+.CompanyLogo
+{
+position: absolute;
+width: 30px;
+height: 30px;
+left: 145px;
+top: 50px;
+background: #000000;
+border-radius: 3px;
+}
+
+.CompanyName 
+{
+position: absolute;
+width: 85px;
+height: 24px;
+left: 200px;
+top: 55px;
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}
+
+.JOC
+{
+position: absolute;
+width: 163px;
+height: 19px;
+left: 179px;
+top: 95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.02em;
+}
+
+.SecBox
+{
+position: absolute;
+width: 263px;
+height: 93px;
+left: 95px;
+top: -1030px;
+
+}
+
+.MA
+{
+position: absolute;
+width: 90px;
+height: 19px;
+left: 467px;
+top: 1091.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.02em;
+}
+
+.CAS
+{
+position: absolute;
+width: 104px;
+height: 17px;
+left: 467px;
+top: 1134.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}
+
+.LIS
+{
+position: absolute;
+width: 144px;
+height: 17px;
+left: 467px;
+top: 1167.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em; 
+}
+
+.MP
+{
+position: absolute;
+width: 87px;
+height: 17px;
+left: 643px;
+top: 1134.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}
+
+.FBrowse
+{
+position: absolute;
+width: 55px;
+height: 17px;
+left: 643px;
+top: 1167.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}
+
+.ThirdBox
+{
+position: absolute;
+width: 110px;
+height: 93px;
+left: 200px;
+top: -1030px;
+}
+
+.NH
+{
+position: absolute;
+width: 90px;
+height: 19px;
+left: 830px;
+top: 1091.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.02em;
+}
+
+.FAQ
+{
+position: absolute;
+width: 33px;
+height: 17px;
+left: 830px;
+top: 1134.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}
+
+.MG
+{
+position: absolute;
+width: 110px;
+height: 17px;
+left: 830px;
+top: 1167.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}
+
+.ForthBox
+{
+position: absolute;
+width: 102px;
+height: 93px;
+left: 350px;
+top: -1030px;
+}
+
+.BAI
+{
+position: absolute;
+width: 90px;
+height: 19px;
+left: 1040px;
+top: 1091.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.02em;
+}
+
+.DI
+{
+position: absolute;
+width: 102px;
+height: 17px;
+left: 1040px;
+top: 1134.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}
+
+.Stores
+{
+position: absolute;
+width: 49px;
+height: 17px;
+left: 1040px;
+top: 1167.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}
+
+.FifthBox
+{
+position: absolute;
+width: 102px;
+height: 93px;
+left: 500px;
+top: -1030px;
+}
+
+.Legal
+{
+position: absolute;
+width: 90px;
+height: 19px;
+left: 1242px;
+top: 1091.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.02em;
+}
+
+.PP
+{
+position: absolute;
+width: 102px;
+height: 17px;
+left: 1242px;
+top: 1134.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}
+
+.TOU
+{
+position: absolute;
+width: 95px;
+height: 17px;
+left: 1242px;
+top: 1167.95px;
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.02em;
+}

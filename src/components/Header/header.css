@@ -1,0 +1,128 @@
+.Header
+{
+position: absolute;
+width: 1440px;
+height: 81px;
+left: 0px;
+top: 81px;
+background: #FFFFFF;
+}
+
+.Logo
+{
+position: absolute;
+width: 40px;
+height: 43.08px;
+left: 59px;
+top: 17px;
+background: #000000;
+border-radius: 3px;
+}
+
+.Logo.Mintable 
+{
+position: absolute;
+width: 27px;
+height: 24.77px;
+left: 66px;
+top: 25.62px;
+background: url(mintLogo.png);
+}
+
+.SearchBar
+{
+position: absolute;
+width: 325px;
+height: 40px;
+left: 122px;
+top: 19px;
+background: rgba(234, 234, 255, 0.4);
+border: 2px solid #EAEAFF;
+box-sizing: border-box;
+border-radius: 3px;
+}
+
+.SearchBar.Text
+{
+position: absolute;
+width: 136px;
+height: 20.46px;
+left: 138px;
+top: 29.08px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #727272;
+}
+
+.Tabs
+{
+position: absolute;
+width: 689px;
+height: 24px;
+left: 709px;
+top: 27px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #2D2D2D;
+}
+
+.Browse
+{
+position: absolute;
+width: 54px;
+height: 21px;
+left: 709px;
+top: 28px;
+}
+
+.Discover
+{
+position: absolute;
+width: 63px;
+height: 21px;
+left: 802px;
+top: 28px;
+}
+
+.MAI
+{
+position: absolute;
+width: 90px;
+height: 21px;
+left: 904px;
+top: 28px;
+}
+
+.Vote
+{
+position: absolute;
+width: 76px;
+height: 21px;
+left: 1033px;
+top: 28px;
+color: #550DED;
+}
+
+.MA
+{
+position: absolute;
+width: 85px;
+height: 21px;
+left: 1148px;
+top: 28px;
+}
+
+.Crypto
+{
+position: absolute;
+width: 70px;
+height: 13px;
+left: 1298px;
+top: 32px;
+}
